@@ -1,8 +1,3 @@
-"""
-Example "Batch analysis from input-images to output-images": python barcode-detect.py [default]
-#Example "Analyse individual image and show box": python barcode-detect.py --image input-images/barcode1.jpg
-"""
-
 import numpy as np
 import cv2
 import argparse
